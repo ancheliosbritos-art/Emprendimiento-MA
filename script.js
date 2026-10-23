@@ -1,7 +1,7 @@
 "use strict";
 
 // Replace with the business WhatsApp number in international format, without "+" or spaces.
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "5493435329149";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navigation = document.querySelector("#main-nav");
